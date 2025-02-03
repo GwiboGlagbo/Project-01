@@ -1,7 +1,12 @@
 # Project-01
 
-# Your Name
+# Enzo Cece
 
-# Your Github username
+# GwiboGlabo
 
-# List the things you added for points
+# QUITE A FEW LOCATIONS
+ALL DEATHS NO HAPPY ENDINGS
+VARIABLES INCLUDING LOCATIONS AND HEALTH
+ENDLESS LOOP
+CONDITIONALS (MACHETE REQUIRED)
+FUN STORY
